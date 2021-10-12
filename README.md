@@ -1,4 +1,18 @@
 ### Hi there 👋
+> I'm Brandon, thanks for stopping by! 
+
+- 🔭 I’m currently working on
+  -  Making the mortgage industry better, one community bank at a time!
+  -  The [elusive personal website](https://bwvolleyball.github.io)
+  -  [NGenius Team View](https://ngeniusesports.com/)
+- 🌱 I’m currently learning blockchain
+  - Looking forward to eWASM for ETH!
+- 👯 I’m looking to collaborate on [NGenius Gaming](https://github.com/ngeniusgaming)
+- 🤔 I’m looking for help with Machine Learning
+- 💬 Ask me about Kotlin, Kubernetes, Spring
+- 📫 How to reach me: Twitter([@bwvolleyball7](https://twitter.com/bwvolleyball7))
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: Once upon a time...
 
 <!--
 **Bwvolleyball/bwvolleyball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
