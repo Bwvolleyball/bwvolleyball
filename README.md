@@ -2,7 +2,6 @@
 > I'm Brandon, thanks for stopping by! 
 
 - 🔭 I’m currently working on
-  -  Making the mortgage industry better, one community bank at a time!
   -  The [elusive personal website](https://bwvolleyball.github.io)
   -  [NGenius Team View](https://ngeniusesports.com/)
 - 🌱 I’m currently learning blockchain
