@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on
   -  The [elusive personal website](https://bwvolleyball.github.io)
   -  [NGenius Team View](https://ngeniusesports.com/)
+  -  Working on my #kaakaww
 - 🌱 I’m currently learning blockchain
   - Looking forward to eWASM for ETH!
 - 👯 I’m looking to collaborate on [NGenius Gaming](https://github.com/ngeniusgaming)
